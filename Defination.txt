@@ -1,1 +1,2 @@
 GitHub is an online hosting service for Git repositories.
+GitHub lets you store your repo on their platform.
