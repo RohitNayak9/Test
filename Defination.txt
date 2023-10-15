@@ -3,3 +3,4 @@ With branches, you can create a copy of a file you would like to work on without
 This guide is beginner friendly
 A text editor of your choice (I will be using VS Code).
 A command line interface.
+Prerequisites
