@@ -1,4 +1,3 @@
 GitHub is an online hosting service for Git repositories.
-GitHub lets you store your repo on their platform.
 With branches, you can create a copy of a file you would like to work on without messing up the original copy.
 This guide is beginner friendly
